@@ -23,7 +23,7 @@ about.addEventListener('click', () => {
     left: 50,
     mount: aboutContent,
     onfocus: function () {
-      this.setBackground('#00aa00')
+      this.setBackground('#C70039')
     },
     onblur: function () {
       this.setBackground('#777')
@@ -42,7 +42,7 @@ contact.addEventListener('click', () => {
     left: 60,
     mount: contactContent,
     onfocus: function () {
-      this.setBackground('#00aa00')
+      this.setBackground('#C70039')
     },
     onblur: function () {
       this.setBackground('#777')
@@ -62,7 +62,7 @@ project.addEventListener('click', () => {
     left: 50,
     mount: projectContent,
     onfocus: function () {
-      this.setBackground('#00aa00')
+      this.setBackground('#C70039')
     },
     onblur: function () {
       this.setBackground('#777')
@@ -81,7 +81,7 @@ experience.addEventListener('click', () => {
     left: 60,
     mount: experienceContent,
     onfocus: function () {
-      this.setBackground('#00aa00')
+      this.setBackground('#C70039')
     },
     onblur: function () {
       this.setBackground('#777')
